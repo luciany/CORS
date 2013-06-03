@@ -1,11 +1,25 @@
 CORS
 ====
 
-CORS authentication using Yeoman, AngularJS and NodeJS.
+> Sample CORS authentication app built with Yeoman, AngularJS and NodeJS.
 
-Client: 
-  ```grunt server```
+> http://pablodenadai.github.io/CORSClient/
+  
+##Install:
+
+###Front-end: 
+
+#### Requirements:
+  + Yeoman
+  + Grunt
+  + Bower
+  
+```$ grunt server```
   
   
-Server:
-  ```node app.js```
+###Back-end:
+
+#### Requirements:
+  + Node
+  
+```$ node app.js```
